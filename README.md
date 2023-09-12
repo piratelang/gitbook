@@ -1,6 +1,6 @@
 <p align="center">
-    <img height="88" src="assets/owllogowhite.png" alt="Material Bread logo" style="margin-right:12px;"><br>
-    <img width="500" src="assets/logo.png" alt="Material Bread logo">
+    <img height="88" src="assets/logo/owllogowhite.png" alt="Material Bread logo" style="margin-right:12px;"><br>
+    <img width="500" src="assets/logo/logo.png" alt="Material Bread logo">
     <br>
     <a href="https://github.com/joerivanarkel/PirateLang/actions/workflows/dotnet.yml">
         <img src="https://github.com/joerivanarkel/PirateLang/actions/workflows/dotnet.yml/badge.svg" alt=".NET">
@@ -55,6 +55,7 @@ More syntax is defined in the [Syntax.md](syntax.md) file.
 ## Solution Structure
 
 ### Pirate.Lexer
+
 
 Takes the input from a `.pirate` file and lexes it into a list of tokens.
 
