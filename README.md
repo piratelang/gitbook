@@ -1,8 +1,6 @@
-# pages
-
 <p align="center">
-    <img height="88" src=".github/owllogowhite.png" alt="Material Bread logo" style="margin-right:12px;"><br>
-    <img width="500" src=".github/logo.png" alt="Material Bread logo">
+    <img height="88" src="assets/owllogowhite.png" alt="Material Bread logo" style="margin-right:12px;"><br>
+    <img width="500" src="assets/logo.png" alt="Material Bread logo">
     <br>
     <a href="https://github.com/joerivanarkel/PirateLang/actions/workflows/dotnet.yml">
         <img src="https://github.com/joerivanarkel/PirateLang/actions/workflows/dotnet.yml/badge.svg" alt=".NET">
