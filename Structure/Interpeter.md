@@ -1,3 +1,4 @@
+# Interpreter
 ## Structural Diagrams
 ```mermaid
 flowchart TB

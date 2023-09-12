@@ -1,3 +1,4 @@
+# Parser
 ## Structural Diagrams
 ```mermaid
 flowchart TB
