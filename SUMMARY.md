@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Pirate Programming Language](README.md)
-* [Structure](Structure/README.md)
-  * [Interpreter](Structure/Interpeter.md)
-  * [Lexer](Structure/Lexer.md)
-  * [Parser](Structure/Parser.md)
+* [Structure](structure/README.md)
+  * [Interpreter](structure/interpreter.md)
+  * [Lexer](structure/lexer.md)
+  * [Parser](structure/parser.md)
