@@ -21,6 +21,7 @@ Pirate is a toy programming language that is written in C# and F#. It is a simpl
 TBD
 
 ### Syntax and Structure
+*See more: [Syntax.md](./Usage/syntax.md)*
 
 A simple Hello World in pirate looks like this:
 
@@ -28,7 +29,7 @@ A simple Hello World in pirate looks like this:
 IO.print("Hello World");
 ```
 
-More syntax is defined in the [Syntax.md](syntax.md) file.
+More syntax is defined in the  file.
 
 ### Solution Structure
 
