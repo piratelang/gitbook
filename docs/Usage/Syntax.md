@@ -19,7 +19,7 @@ is    is not    and     or
 
 ### Function definition
 ```nim
-func funcName(params)
+func funcName(params) : returnType
 {
 
 }

@@ -1,6 +1,4 @@
-# Pirate Programming Language
-
-Pirate Programming Language
+![Logo](https://raw.githubusercontent.com/piratelang/gitbook/main/assets/logo/logo.png)
 
 Pirate is a toy programming language that is written in C# and F#. It is a simple language that was created to learn more about programming languages and interpreters.
 
@@ -31,7 +29,7 @@ IO.print("Hello World");
 
 More syntax is defined in the  file.
 
-### Solution Structure
+### Structure
 
 #### Pirate.Lexer
 
