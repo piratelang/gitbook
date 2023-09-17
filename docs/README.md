@@ -16,7 +16,7 @@ Pirate is a toy programming language that is written in C# and F#. It is a simpl
 
 ### Installation
 
-TBD
+Pirate is currently available with a simple windows installer and as a raw source code download. The installer will install the Pirate CLI, which can be used to run pirate files. The raw source code download can be used to build the CLI and the Pirate library. Detailed instructions on how to install Pirate can be found in the [Installation.md](./Installation.md) file.
 
 ### Syntax and Structure
 *See more: [Syntax.md](./Usage/syntax.md)*
