@@ -1,6 +1,5 @@
 # Syntax
 ## Structure
-Porject must start with a `func main()` statement, defining the to run program.
 
 ### Variables
 ```nim
@@ -8,7 +7,7 @@ var name = variable;
 ```
 #### String
 ```nim
-var foo = "//string"
+var foo = "string"
 ```
 
 ### Conditions
@@ -28,6 +27,7 @@ func funcName(params)
 ```
 
 ### Collection
+_Not implemented yet_
 ```nim
 var list = []
 ```
@@ -37,6 +37,7 @@ list[index]
 ```
 
 ### Comments
+Comments are multiline by default. Everything between `//` and `;` is treated as a comment.
 ```cs
 // This is a comment;
 ```
@@ -93,5 +94,16 @@ foreach(var item in list)
 while condition
 {
     //then body;
+}
+```
+
+## Functions
+### Importing extern functions
+```nim
+extern Standard.Terminal.Print;
+
+func main()
+{
+    Print("Hello World!");
 }
 ```
